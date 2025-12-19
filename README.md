@@ -11,6 +11,7 @@ Each project is maintained as a **separate folder** within this repository for c
 
 ## 📁 Repository Structure
 
+```text
 AI-ML-UT-Austin-Projects/
 │
 ├── food-delivery-demand-analysis/
