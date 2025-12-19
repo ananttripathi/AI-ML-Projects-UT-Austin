@@ -11,6 +11,7 @@ Each project is maintained as a **separate folder** within this repository for c
 
 ## 📁 Repository Structure
 
+```
 AI-ML-UT-Austin-Projects/
 ├── food-delivery-demand-analysis/
 ├── personal-loan-propensity-modeling/
@@ -23,6 +24,8 @@ AI-ML-UT-Austin-Projects/
 ├── safety-helmet-detection-system/
 ├── customer-purchase-prediction-mlops-pipeline/
 └── medical-knowledge-rag-system/
+```
+
 
 
 Each project folder typically contains:
